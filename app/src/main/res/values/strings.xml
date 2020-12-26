@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calendar</string>
+    <string name="list">
+        <li>1.Monday</li>\n
+        <li>2.Tuesday</li>\n
+        <li>3.Wednesday</li>\n
+        <li>4.Thursday</li>\n
+        <li>5.Friday</li>\n
+        <li>6.Saturday</li>\n
+        <li>7.Sunday</li>\n
+    </string>
+</resources>
